@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZQN18+Ps/B3fH3XrT1nVZ9LKwhXQqYNla5PXxpvvb3g=",
+  "Source": "AzureBlobStoragePOC",
+  "BasePath": "_content/AzureBlobStoragePOC",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
